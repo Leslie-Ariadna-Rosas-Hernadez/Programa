@@ -1,0 +1,31 @@
+5
+¿Cuál es el número atómico del Osmio?
+72
+76
+43
+91
+76
+¿Cuál es el proceso en el cual la presión permanece constante?
+adiabático
+isotérmico
+isobárico
+isocórico
+isobárico
+¿Cuál es el gas que se encuentra en mayor porcentaje en la atmósfera?
+Oxígeno
+Argón
+Dióxido de carbono
+Nitrógeno
+Nitrógeno
+¿Cuál es el sistema en el que solo se intercambia energía?
+Abierto
+Aislado
+Cerrado
+No existe
+Cerrado
+¿Cúal es la masa molecular del compuesto Ca3 (PO4) 2?
+254
+176
+128
+310
+310
